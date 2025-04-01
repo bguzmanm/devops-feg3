@@ -6,6 +6,7 @@ function App() {
     <div>
       <h1>Mi PWA 🚀 😂 🙈</h1>
       <AppRoutes />
+      <p>🙈</p>
     </div>
   );
 }
