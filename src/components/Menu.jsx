@@ -8,7 +8,7 @@ export default function Menu() {
           <NavLink to="/">Home</NavLink>
         </li>
         <li>
-          <NavLink to="/about">About</NavLink>
+          <NavLink to="/about">Acerca De...</NavLink>
         </li>
       </ul>
     </nav>
