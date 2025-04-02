@@ -5,7 +5,7 @@ export default function Menu() {
     <nav>
       <ul>
         <li>
-          <NavLink to="/">Home</NavLink>
+          <NavLink to="/">Home 🧑🏽‍💻</NavLink>
         </li>
         <li>
           <NavLink to="/about">Acerca De...</NavLink>
